@@ -10,7 +10,9 @@
 
 [Plotting with categorical data with Seaborn](https://seaborn.pydata.org/tutorial/categorical.html?highlight=seaborn%20bar)
 
-### Topics Explained
+### Topics Explained or Visualized
+[Visualizing how a Neural Network works](https://playground.tensorflow.org)
+
 [Eigenvectors and Eigenvalues explained](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
 
 [Principal Component Analysis explained](http://setosa.io/ev/principal-component-analysis/)
