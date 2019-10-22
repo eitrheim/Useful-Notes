@@ -4,6 +4,8 @@
 [Harvard Introduction to Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science?category[]=3&sort_by=date_added)
 
 ### Tips
+[Useful resources for tmap](https://github.com/mtennekes/tmap/#reference)   
+[Making maps with R](https://geocompr.robinlovelace.net/adv-map.html)    
 [Top 5 tricks to make plots look better](https://medium.com/@andykashyap/top-5-tricks-to-make-plots-look-better-9f6e687c1e08)    
 [Built-in functions in Python](https://docs.python.org/3.3/library/functions.html)    
 [Plotting with categorical data with Seaborn](https://seaborn.pydata.org/tutorial/categorical.html?highlight=seaborn%20bar)
