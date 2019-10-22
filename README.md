@@ -64,5 +64,11 @@
 
 [Demographic and Health Survey / USAID Spatial Data Repository: Health and Demographic data](http://spatialdata.dhsprogram.com/home/)
 
+#### Historical
+
+[Library of Congress](https://www.loc.gov/maps/)
+
+[UChicago Maps](https://www.lib.uchicago.edu/collex/?view=collections&subject=Maps) and [librarians can help make into shape files](http://guides.lib.uchicago.edu/maps)
+
 #### Others
 [Search on StackExchange here](https://gis.stackexchange.com/questions/8929/open-access-repository-of-general-gis-spatial-data) and [here](https://gis.stackexchange.com/questions/495/seeking-administrative-boundaries-for-various-countries)
