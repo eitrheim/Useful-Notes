@@ -5,6 +5,7 @@
 
 ### Tips
 [Useful resources for tmap](https://github.com/mtennekes/tmap/#reference)   
+[Code for tmap: Thematic Maps in R](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-JSS-code.html)    
 [Making maps with R](https://geocompr.robinlovelace.net/adv-map.html)    
 [Top 5 tricks to make plots look better](https://medium.com/@andykashyap/top-5-tricks-to-make-plots-look-better-9f6e687c1e08)    
 [Built-in functions in Python](https://docs.python.org/3.3/library/functions.html)    
