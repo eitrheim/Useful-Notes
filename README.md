@@ -36,7 +36,7 @@
 ### Spatial Datasets/Sources
 #### Learning
 
-[GeoDa Data Portal, mostly smaller sample datasets for use in learning spatial analysis] (https://geodacenter.github.io/data-and-lab/)
+[GeoDa Data Portal, mostly smaller sample datasets for use in learning spatial analysis](https://geodacenter.github.io/data-and-lab/)
 
 [spData R package, which accompanies Geocomputation with R](https://github.com/Nowosad/spData)
 
@@ -65,4 +65,4 @@
 [Demographic and Health Survey / USAID Spatial Data Repository: Health and Demographic data](http://spatialdata.dhsprogram.com/home/)
 
 #### Others
-[Search on StackExchange here:] [https://gis.stackexchange.com/questions/8929/open-access-repository-of-general-gis-spatial-data] [and here:](https://gis.stackexchange.com/questions/495/seeking-administrative-boundaries-for-various-countries)
+[Search on StackExchange here](https://gis.stackexchange.com/questions/8929/open-access-repository-of-general-gis-spatial-data) and [here](https://gis.stackexchange.com/questions/495/seeking-administrative-boundaries-for-various-countries)
