@@ -40,7 +40,7 @@
 
 [spData R package, which accompanies Geocomputation with R](https://github.com/Nowosad/spData)
 
-[geodaData R package: currently in development, but includes all the packages in the GeoDa tutorials] (https://github.com/spatialanalysis/geodaData)
+[geodaData R package, currently in development, but includes all the packages in the GeoDa tutorials](https://github.com/spatialanalysis/geodaData)
 
 [Tidycensus R package: really useful for getting US boundaries, variables](https://walkerke.github.io/tidycensus)
 
