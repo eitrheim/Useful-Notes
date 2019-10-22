@@ -32,3 +32,37 @@
 [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)
 
 [Google Dataset Search](https://www.blog.google/products/search/making-it-easier-discover-datasets/)
+
+### Spatial Datasets/Sources
+#### Learning
+
+[GeoDa Data Portal, mostly smaller sample datasets for use in learning spatial analysis] (https://geodacenter.github.io/data-and-lab/)
+
+[spData R package, which accompanies Geocomputation with R](https://github.com/Nowosad/spData)
+
+[geodaData R package: currently in development, but includes all the packages in the GeoDa tutorials] (https://github.com/spatialanalysis/geodaData)
+
+[Tidycensus R package: really useful for getting US boundaries, variables](https://walkerke.github.io/tidycensus)
+
+#### Social Science/Planning
+
+[OpenStreetMap: can use API, or osmdata R package, to get data CMAP Data Hub: Chicago Metropolitan Agency for Planning (36 datasets, including community areas)](https://datahub.cmap.illinois.gov/)
+
+[NYU Spatial Data Repository: lots of data; links to other institutions](https://geo.nyu.edu/)
+
+[ICPSR data portal: data archive for the social sciences](https://www.icpsr.umich.edu/icpsrweb/)
+
+#### Land Use/Ecological
+
+[USGS Data Products, more ecological data:](https://www.usgs.gov/products/data-and-tools/gis-data)
+
+[NEON Ecological data:](https://data.neonscience.org/home)
+
+#### Health/Demographics
+
+[CDC GIS Data:](https://www.cdc.gov/gis/geo-spatial-data.html) [Also has ArcGIS training:](https://www.cdc.gov/dhdsp/maps/gisx/training/index.html)
+
+[Demographic and Health Survey / USAID Spatial Data Repository: Health and Demographic data](http://spatialdata.dhsprogram.com/home/)
+
+#### Others
+[Search on StackExchange here:] [https://gis.stackexchange.com/questions/8929/open-access-repository-of-general-gis-spatial-data] [and here:](https://gis.stackexchange.com/questions/495/seeking-administrative-boundaries-for-various-countries)
