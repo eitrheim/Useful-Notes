@@ -3,7 +3,7 @@
 ### Classes
  - [Harvard Introduction to Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science?category[]=3&sort_by=date_added)
 
-### Tips
+### Tips and Quick Tutorials
  - [Useful resources for tmap](https://github.com/mtennekes/tmap/#reference)   
  - [Code for tmap: Thematic Maps in R](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-JSS-code.html)    
  - [Making maps with R](https://geocompr.robinlovelace.net/adv-map.html)    
@@ -12,6 +12,8 @@
  - [Plotting with categorical data with Seaborn](https://seaborn.pydata.org/tutorial/categorical.html?highlight=seaborn%20bar) 
  - [Sankey Diagram in Python](https://plot.ly/python/sankey-diagram/)    
  - [Best practices for file naming](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming)
+ - [Using MongoDB and Chicago data](https://www.mongodb.com/customers/city-of-chicago)
+ - [Graph Database example to find insurance fraud](https://neo4j.com/blog/insurance-fraud-detection-graph-database/)
 
 ### Topics Explained or Visualized
  - [Kernel Density Estimation](https://mathisonian.github.io/kde/)    
