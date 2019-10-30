@@ -24,7 +24,7 @@
  - [Implementation of a majority voting EnsembleVoteClassifier for classification](https://rasbt.github.io/mlxtend/user_guide/classifier/EnsembleVoteClassifier/)
  - [Blockchain summary (devopedia)](https://devopedia.org/blockchain)
  - [Brief overview of Blockchain](https://www.sec.gov/spotlight/investor-advisory-committee-2012/slides-nancy-liao-brief-intro-to-blockchain-iac-101217.pdf)
- - [MapReduce processes explained](https://www.oreilly.com/library/view/hadoop-the-definitive/9781491901687/ch04.html)
+ - [MapReduce processes explained](https://www.oreilly.com/library/view/hadoop-the-definitive/9781491901687/ch04.html) but also explained [here](https://developer.yahoo.com/hadoop/tutorial/module4.html?guccounter=1%23dataflow)
  - [Apache YARN (Yet Another Resource Negotiator): Hadoop’s cluster resource management system](https://www.oreilly.com/library/view/hadoop-the-definitive/9781491901687/ch04.html)
 
 ### Textbooks
