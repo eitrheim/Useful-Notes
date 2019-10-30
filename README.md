@@ -26,6 +26,7 @@
 [Airline Dataset](https://www.stat.purdue.edu/~sguha/rhipe/doc/html/airline.html)    
 [List of Public Data Sources Fit for Machine Learning](https://blog.bigml.com/list-of-public-data-sources-fit-for-machine-learning/)    
 [Million Song Dataset](http://millionsongdataset.com/pages/getting-dataset/)    
+[2013-2016 Cleaned & Parsed 10-K Filings with the SEC](https://data.world/jumpyaf/2013-2016-cleaned-parsed-10-k-filings-with-the-sec?utm_campaign=data_digest&utm_source=email&utm_medium=email&utm_content=190808&_hsenc=p2ANqtz-_PS-XjGDrizhTbshW6iqJk29RYnUXcCFmqA5YFeY3sDIxCgWMAw6EUs3ecGV5mPKaRzsGojQxdK83sO7nE3swe9OAA1A&_hsmi=75508835)    
 [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)    
 [Google Dataset Search](https://www.blog.google/products/search/making-it-easier-discover-datasets/)
 
