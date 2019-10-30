@@ -12,10 +12,11 @@
 [Plotting with categorical data with Seaborn](https://seaborn.pydata.org/tutorial/categorical.html?highlight=seaborn%20bar)
 
 ### Topics Explained or Visualized
-[Kernel Density Estimation](https://mathisonian.github.io/kde/)
+[Kernel Density Estimation](https://mathisonian.github.io/kde/)    
 [Visualizing how a Neural Network works](https://playground.tensorflow.org)    
 [Eigenvectors and Eigenvalues explained](http://setosa.io/ev/eigenvectors-and-eigenvalues/)    
 [Principal Component Analysis explained](http://setosa.io/ev/principal-component-analysis/)
+[In Depth: k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)    
 
 ### Textbooks
 [R for Data Science textbook](https://r4ds.had.co.nz)
