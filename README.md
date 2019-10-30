@@ -14,7 +14,6 @@
  - [Best practices for file naming](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming)
 
 ### Topics Explained or Visualized
-
  - [Kernel Density Estimation](https://mathisonian.github.io/kde/)    
  - [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe's_quartet)    
  - [Visualizing how a Neural Network works](https://playground.tensorflow.org)    
@@ -33,8 +32,8 @@
  - [List of Public Data Sources Fit for Machine Learning](https://blog.bigml.com/list-of-public-data-sources-fit-for-machine-learning/)    
  - [Million Song Dataset](http://millionsongdataset.com/pages/getting-dataset/)    
  - [2013-2016 Cleaned & Parsed 10-K Filings with the SEC](https://data.world/jumpyaf/2013-2016-cleaned-parsed-10-k-filings-with-the-sec?utm_campaign=data_digest&utm_source=email&utm_medium=email&utm_content=190808&_hsenc=p2ANqtz-_PS-XjGDrizhTbshW6iqJk29RYnUXcCFmqA5YFeY3sDIxCgWMAw6EUs3ecGV5mPKaRzsGojQxdK83sO7nE3swe9OAA1A&_hsmi=75508835)    
-[Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)    
-[Google Dataset Search](https://www.blog.google/products/search/making-it-easier-discover-datasets/)
+ - [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)    
+ - [Google Dataset Search](https://www.blog.google/products/search/making-it-easier-discover-datasets/)
 
 ### Spatial Datasets/Sources
 #### Learning
@@ -61,13 +60,11 @@
 [UChicago Maps](https://www.lib.uchicago.edu/collex/?view=collections&subject=Maps) and [librarians can help make into shape  - files](http://guides.lib.uchicago.edu/maps)
 
 #### Others
- - [GeoDa Datasets on Github](https://github.com/spatialanalysis/geodaData)    
-In R:    
-```base
-install.packages('remotes')    
-remotes::install_github("spatialanalysis/geodaData")    
-library(geodaData)    
-data("chicago_comm")   
-```
-
+ - [GeoDa Datasets on Github](https://github.com/spatialanalysis/geodaData). In R:    
+   ```base
+   install.packages('remotes')    
+   remotes::install_github("spatialanalysis/geodaData")    
+   library(geodaData)    
+   data("chicago_comm")   
+   ```
  - [Search on StackExchange here](https://gis.stackexchange.com/questions/8929/open-access-repository-of-general-gis-spatial-data) and [here](https://gis.stackexchange.com/questions/495/seeking-administrative-boundaries-for-various-countries)
