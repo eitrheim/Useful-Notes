@@ -54,9 +54,11 @@
 #### Others
 [GeoDa Datasets on Github](https://github.com/spatialanalysis/geodaData)    
 In R:    
- - `install.packages('remotes')`    
- - `remotes::install_github("spatialanalysis/geodaData")`    
- - `library(geodaData)`    
- - `data("chicago_comm")`    
+```base
+install.packages('remotes')    
+remotes::install_github("spatialanalysis/geodaData")    
+library(geodaData)    
+data("chicago_comm")   
+```
 
 [Search on StackExchange here](https://gis.stackexchange.com/questions/8929/open-access-repository-of-general-gis-spatial-data) and [here](https://gis.stackexchange.com/questions/495/seeking-administrative-boundaries-for-various-countries)
