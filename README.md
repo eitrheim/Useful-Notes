@@ -11,6 +11,7 @@
  - [Best practices for file naming](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming)
  - [Using MongoDB and Chicago data](https://www.mongodb.com/customers/city-of-chicago)
  - [Graph Database example to find insurance fraud](https://neo4j.com/blog/insurance-fraud-detection-graph-database/)
+ - [A Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
 
 ### Topics Explained or Visualized
  - [Kernel Density Estimation](https://mathisonian.github.io/kde/)    
@@ -20,6 +21,8 @@
  - [Principal Component Analysis explained](http://setosa.io/ev/principal-component-analysis/)
  - [In Depth: k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)    
  - [Implementation of a majority voting EnsembleVoteClassifier for classification](https://rasbt.github.io/mlxtend/user_guide/classifier/EnsembleVoteClassifier/)
+ - [Blockchain summary (devopedia)](https://devopedia.org/blockchain)
+ - [Brief overview of Blockchain](https://www.sec.gov/spotlight/investor-advisory-committee-2012/slides-nancy-liao-brief-intro-to-blockchain-iac-101217.pdf)
 
 ### Textbooks
  - [R for Data Science textbook](https://r4ds.had.co.nz)
