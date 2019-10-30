@@ -26,6 +26,7 @@
 
 ### Textbooks
  - [R for Data Science textbook](https://r4ds.had.co.nz)
+ - [Intro to Stats](http://onlinestatbook.com/2/index.html)
 
 ### Datasets
  - [Chicago Data](https://data.cityofchicago.org)    
