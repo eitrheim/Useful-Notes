@@ -11,6 +11,7 @@
  - [Built-in functions in Python](https://docs.python.org/3.3/library/functions.html)    
  - [Plotting with categorical data with Seaborn](https://seaborn.pydata.org/tutorial/categorical.html?highlight=seaborn%20bar) 
  - [Sankey Diagram in Python](https://plot.ly/python/sankey-diagram/)    
+ - [Best practices for file naming](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming)
 
 ### Topics Explained or Visualized
 
@@ -27,6 +28,7 @@
 
 ### Datasets
  - [Chicago Data](https://data.cityofchicago.org)    
+ - [India Data](https://data.gov.in/catalogs)
  - [Airline Dataset](https://www.stat.purdue.edu/~sguha/rhipe/doc/html/airline.html)    
  - [List of Public Data Sources Fit for Machine Learning](https://blog.bigml.com/list-of-public-data-sources-fit-for-machine-learning/)    
  - [Million Song Dataset](http://millionsongdataset.com/pages/getting-dataset/)    
@@ -47,11 +49,11 @@
  - [ICPSR data portal: data archive for the social sciences](https://www.icpsr.umich.edu/icpsrweb/)
 
 #### Land Use/Ecological
- - [USGS Data Products, more ecological data:](https://www.usgs.gov/products/data-and-tools/gis-data)    
- - [NEON Ecological data:](https://data.neonscience.org/home)
+ - [USGS Data Products, more ecological data](https://www.usgs.gov/products/data-and-tools/gis-data)    
+ - [NEON Ecological data](https://data.neonscience.org/home)
 
 #### Health/Demographics
- - [CDC GIS Data:](https://www.cdc.gov/gis/geo-spatial-data.html) [Also has ArcGIS training:](https://www.cdc.gov/dhdsp/maps/gisx/training/index.html)    
+ - [CDC GIS Data](https://www.cdc.gov/gis/geo-spatial-data.html) also has [ArcGIS training](https://www.cdc.gov/dhdsp/maps/gisx/training/index.html)    
  - [Demographic and Health Survey / USAID Spatial Data Repository: Health and Demographic data](http://spatialdata.dhsprogram.com/home/)
 
 #### Historical
