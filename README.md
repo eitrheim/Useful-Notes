@@ -4,9 +4,6 @@
  - [Harvard Introduction to Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science?category[]=3&sort_by=date_added)
 
 ### Tips and Quick Tutorials
- - [Useful resources for tmap](https://github.com/mtennekes/tmap/#reference)   
- - [Code for tmap: Thematic Maps in R](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-JSS-code.html)    
- - [Making maps with R](https://geocompr.robinlovelace.net/adv-map.html)    
  - [Top 5 tricks to make plots look better](https://medium.com/@andykashyap/top-5-tricks-to-make-plots-look-better-9f6e687c1e08) 
  - [Built-in functions in Python](https://docs.python.org/3.3/library/functions.html)    
  - [Plotting with categorical data with Seaborn](https://seaborn.pydata.org/tutorial/categorical.html?highlight=seaborn%20bar) 
@@ -38,6 +35,11 @@
  - [Google Dataset Search](https://www.blog.google/products/search/making-it-easier-discover-datasets/)
 
 ### Spatial Datasets/Sources
+#### Plotting in R
+ - [Useful resources for tmap](https://github.com/mtennekes/tmap/#reference)   
+ - [Code for tmap: Thematic Maps in R](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-JSS-code.html)    
+ - [Making maps with R](https://geocompr.robinlovelace.net/adv-map.html)    
+ 
 #### Learning
  - [GeoDa Data Portal, mostly smaller sample datasets for use in learning spatial analysis](https://geodacenter.github.io/data-and-lab/)   
  - [spData R package, which accompanies Geocomputation with R](https://github.com/Nowosad/spData)    
