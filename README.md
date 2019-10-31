@@ -3,7 +3,7 @@
 ### Classes
  - [Harvard Introduction to Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science?category[]=3&sort_by=date_added)
 
-### Tips and Quick Tutorials
+### Tips and Tutorials
  - [Top 5 tricks to make plots look better](https://medium.com/@andykashyap/top-5-tricks-to-make-plots-look-better-9f6e687c1e08) 
  - [Built-in functions in Python](https://docs.python.org/3.3/library/functions.html)    
  - [Plotting with categorical data with Seaborn](https://seaborn.pydata.org/tutorial/categorical.html?highlight=seaborn%20bar) 
@@ -28,6 +28,7 @@
  - [Setting hyperparameters for Neural Networks](http://cs231n.github.io/neural-networks-3/#summary)
  - [10 Gradient Descent Optimisation Algorithms](https://towardsdatascience.com/10-gradient-descent-optimisation-algorithms-86989510b5e9)
  - [Using XGBoost in Python](https://www.datacamp.com/community/tutorials/xgboost-in-python)
+ - [Training Deep Learning models entirely in your browser](https://cs.stanford.edu/people/karpathy/convnetjs/)
 
 ### Topics Explained or Visualized
  - [Kernel Density Estimation](https://mathisonian.github.io/kde/)    
