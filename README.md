@@ -16,6 +16,11 @@
  - [Predicting Breast Cancer Using Apache Spark Machine Learning Logistic Regression](https://mapr.com/blog/predicting-breast-cancer-using-apache-spark-machine-learning-logistic-regression/)
  - [5 Types of Recommender Systems](https://www.datasciencecentral.com/profiles/blogs/5-types-of-recommenders)
  - [Association Rules and the Apriori Algorithm](https://www.kdnuggets.com/2016/04/association-rules-apriori-algorithm-tutorial.html)
+ - [Apriori vs FP-Growth for Frequent Item Set Mining](https://www.singularities.com/blog/our-blog-1/post/apriori-vs-fp-growth-for-frequent-item-set-mining-11)
+ - [How Shopify Uses Recommender Systems to Empower Entrepreneurs](https://medium.com/data-shopify/how-shopify-uses-recommender-systems-to-empower-entrepreneurs-99553b407944)
+ - [Various Implementations of Collaborative Filtering](https://towardsdatascience.com/various-implementations-of-collaborative-filtering-100385c6dfe0)
+ - [Collaborative filtering for movie recommendations](http://ampcamp.berkeley.edu/big-data-mini-course/movie-recommendation-with-mllib.html)
+ - [Deep learning for recommender systems](https://ebaytech.berlin/deep-learning-for-recommender-systems-48c786a20e1a)
 
 ### Topics Explained or Visualized
  - [Kernel Density Estimation](https://mathisonian.github.io/kde/)    
@@ -33,10 +38,12 @@
  - [MapReduce processes explained](https://www.oreilly.com/library/view/hadoop-the-definitive/9781491901687/ch04.html) but also explained [here](https://developer.yahoo.com/hadoop/tutorial/module4.html?guccounter=1%23dataflow)
  - [Apache YARN (Yet Another Resource Negotiator): Hadoop’s cluster resource management system](https://www.oreilly.com/library/view/hadoop-the-definitive/9781491901687/ch04.html)
  - [Wide VS Narrow Dependecies: Representation/DAG is what Spark analyzes to do optimizations](https://github.com/rohgar/scala-spark-4/wiki/Wide-vs-Narrow-Dependencies)
+ - [Word embeddings in tensorflow](https://www.tensorflow.org/tutorials/text/word_embeddings)
 
 ### Textbooks
  - [R for Data Science textbook](https://r4ds.had.co.nz)
  - [Intro to Stats](http://onlinestatbook.com/2/index.html)
+ - [MIT Deep Learning](http://www.deeplearningbook.org/)
 
 ### Datasets
  - [Chicago Data](https://data.cityofchicago.org)    
@@ -44,6 +51,7 @@
  - [Airline Dataset](https://www.stat.purdue.edu/~sguha/rhipe/doc/html/airline.html)    
  - [List of Public Data Sources Fit for Machine Learning](https://blog.bigml.com/list-of-public-data-sources-fit-for-machine-learning/)    
  - [Million Song Dataset](http://millionsongdataset.com/pages/getting-dataset/)    
+ - [Classification datasets](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html)
  - [2013-2016 Cleaned & Parsed 10-K Filings with the SEC](https://data.world/jumpyaf/2013-2016-cleaned-parsed-10-k-filings-with-the-sec?utm_campaign=data_digest&utm_source=email&utm_medium=email&utm_content=190808&_hsenc=p2ANqtz-_PS-XjGDrizhTbshW6iqJk29RYnUXcCFmqA5YFeY3sDIxCgWMAw6EUs3ecGV5mPKaRzsGojQxdK83sO7nE3swe9OAA1A&_hsmi=75508835)    
  - [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)    
  - [Google Dataset Search](https://www.blog.google/products/search/making-it-easier-discover-datasets/)
