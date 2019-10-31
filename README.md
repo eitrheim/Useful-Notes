@@ -18,7 +18,7 @@
      - [Collaborative filtering for movie recommendations](http://ampcamp.berkeley.edu/big-data-mini-course/movie-recommendation-with-mllib.html)
      - [Deep learning for recommender systems](https://ebaytech.berlin/deep-learning-for-recommender-systems-48c786a20e1a)
  - Images and Deep Learning
-     - [Photo Style Transfer](https://github.com/luanfujun/deep-photo-styletransfer)
+     - [Photo Style Transfer](https://github.com/luanfujun/deep-photo-styletransfer) and [another example](https://github.com/jcjohnson/neural-style/)
      - [OpenFace: A general-purpose face recognition library](http://cmusatyalab.github.io/openface/)
      - Pretrained Image Classifier [here](http://demo.caffe.berkeleyvision.org/) and [here](http://places2.csail.mit.edu/demo.html)
      - [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf)
@@ -42,7 +42,12 @@
  - [Priming neural networks with an appropriate initializer](https://becominghuman.ai/priming-neural-networks-with-an-appropriate-initializer-7b163990ead)
  - [How transferable are features in deep neural networks?](https://arxiv.org/pdf/1411.1792.pdf)
  - [A Gentle Introduction to Transfer Learning for Deep Learning](https://machinelearningmastery.com/transfer-learning-for-deep-learning/)
-
+ - [Convolutions and Backpropagations](https://medium.com/@pavisj/convolutions-and-backpropagations-46026a8f5d2c)
+ - [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
+ - [Feature Visualization](https://distill.pub/2017/feature-visualization/) how neural networks build up their understanding of images
+ - [ResNet, AlexNet, VGGNet, Inception: Understanding various architectures of Convolutional Networks](https://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/)
+ - [CNN example with MNIST dataset](https://ml4a.github.io/ml4a/looking_inside_neural_nets/)
+ - [AlphaGo Case Study](https://deepmind.com/research/case-studies/alphago-the-story-so-far)
 
 ### Topics Explained or Visualized
  - [Kernel Density Estimation](https://mathisonian.github.io/kde/)    
@@ -65,6 +70,7 @@
  - [Understanding ROC curves](http://www.navan.name/roc/)
  - [Convolution animations](https://github.com/vdumoulin/conv_arithmetic) and [another with a detailed explaination](http://machinelearninguru.com/computer_vision/basics/convolution/convolution_layer.html)
  - ![neural network architectures cheatsheet](https://www.asimovinstitute.org/wp-content/uploads/2019/04/NeuralNetworkZoo20042019.png)
+ - [Convolutional Neural Networks](http://andrew.gibiansky.com/blog/machine-learning/convolutional-neural-networks/)
 
 ### Textbooks
  - [R for Data Science textbook](https://r4ds.had.co.nz)
