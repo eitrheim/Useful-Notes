@@ -21,6 +21,10 @@
  - [Various Implementations of Collaborative Filtering](https://towardsdatascience.com/various-implementations-of-collaborative-filtering-100385c6dfe0)
  - [Collaborative filtering for movie recommendations](http://ampcamp.berkeley.edu/big-data-mini-course/movie-recommendation-with-mllib.html)
  - [Deep learning for recommender systems](https://ebaytech.berlin/deep-learning-for-recommender-systems-48c786a20e1a)
+ - Pretrained Image Classifier [here](http://demo.caffe.berkeleyvision.org/) and [here](http://places2.csail.mit.edu/demo.html)
+ - [Photo Style Transfer](https://github.com/luanfujun/deep-photo-styletransfer)
+ - [OpenFace: A general-purpose face recognition library](http://cmusatyalab.github.io/openface/)
+ - [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf)
 
 ### Topics Explained or Visualized
  - [Kernel Density Estimation](https://mathisonian.github.io/kde/)    
