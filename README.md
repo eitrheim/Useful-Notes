@@ -25,6 +25,7 @@
  - [Photo Style Transfer](https://github.com/luanfujun/deep-photo-styletransfer)
  - [OpenFace: A general-purpose face recognition library](http://cmusatyalab.github.io/openface/)
  - [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf)
+ - [Setting hyperparameters for Neural Networks](http://cs231n.github.io/neural-networks-3/#summary)
 
 ### Topics Explained or Visualized
  - [Kernel Density Estimation](https://mathisonian.github.io/kde/)    
@@ -35,6 +36,7 @@
  - [In Depth: k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)  
  - [Bagging and Boosting](https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/)
  - [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/)
+ - [Momentum for Gradient Decent](https://distill.pub/2017/momentum/)
  - [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
  - [Implementation of a majority voting EnsembleVoteClassifier for classification](https://rasbt.github.io/mlxtend/user_guide/classifier/EnsembleVoteClassifier/)
  - [Blockchain summary (devopedia)](https://devopedia.org/blockchain)
@@ -43,6 +45,7 @@
  - [Apache YARN (Yet Another Resource Negotiator): Hadoop’s cluster resource management system](https://www.oreilly.com/library/view/hadoop-the-definitive/9781491901687/ch04.html)
  - [Wide VS Narrow Dependecies: Representation/DAG is what Spark analyzes to do optimizations](https://github.com/rohgar/scala-spark-4/wiki/Wide-vs-Narrow-Dependencies)
  - [Word embeddings in tensorflow](https://www.tensorflow.org/tutorials/text/word_embeddings)
+ - [How to build a simple artificial neural network](https://sausheong.github.io/posts/how-to-build-a-simple-artificial-neural-network-with-go/)
 
 ### Textbooks
  - [R for Data Science textbook](https://r4ds.had.co.nz)
