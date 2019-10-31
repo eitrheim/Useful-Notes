@@ -26,6 +26,8 @@
  - [OpenFace: A general-purpose face recognition library](http://cmusatyalab.github.io/openface/)
  - [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf)
  - [Setting hyperparameters for Neural Networks](http://cs231n.github.io/neural-networks-3/#summary)
+ - [10 Gradient Descent Optimisation Algorithms](https://towardsdatascience.com/10-gradient-descent-optimisation-algorithms-86989510b5e9)
+ - [Using XGBoost in Python](https://www.datacamp.com/community/tutorials/xgboost-in-python)
 
 ### Topics Explained or Visualized
  - [Kernel Density Estimation](https://mathisonian.github.io/kde/)    
@@ -46,6 +48,9 @@
  - [Wide VS Narrow Dependecies: Representation/DAG is what Spark analyzes to do optimizations](https://github.com/rohgar/scala-spark-4/wiki/Wide-vs-Narrow-Dependencies)
  - [Word embeddings in tensorflow](https://www.tensorflow.org/tutorials/text/word_embeddings)
  - [How to build a simple artificial neural network](https://sausheong.github.io/posts/how-to-build-a-simple-artificial-neural-network-with-go/)
+ - [Simple guide to confusion matrix terminology](https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
+ - [Sensitivity and specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
+ - [Understanding ROC curves](http://www.navan.name/roc/)
 
 ### Textbooks
  - [R for Data Science textbook](https://r4ds.had.co.nz)
