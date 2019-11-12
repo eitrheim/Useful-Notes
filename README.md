@@ -25,6 +25,7 @@
  - [The Best of the Best Practices (BOBP) Guide for Python](https://gist.github.com/sloria/7001839)
  - [Setting hyperparameters for Neural Networks](http://cs231n.github.io/neural-networks-3/#summary)
  - [10 Gradient Descent Optimisation Algorithms](https://towardsdatascience.com/10-gradient-descent-optimisation-algorithms-86989510b5e9)
+ - [Combine the content of one image with the style of another image](https://github.com/jcjohnson/neural-style/)
  - [Using XGBoost in Python](https://www.datacamp.com/community/tutorials/xgboost-in-python)
  - [Training Deep Learning models entirely in your browser](https://cs.stanford.edu/people/karpathy/convnetjs/)
  - [Built-in functions in Python](https://docs.python.org/3.3/library/functions.html)    
@@ -48,6 +49,7 @@
  - [ResNet, AlexNet, VGGNet, Inception: Understanding various architectures of Convolutional Networks](https://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/)
  - [CNN example with MNIST dataset](https://ml4a.github.io/ml4a/looking_inside_neural_nets/)
  - [AlphaGo Case Study](https://deepmind.com/research/case-studies/alphago-the-story-so-far)
+ - [Human pose estimation](http://www.cs.cmu.edu/~vramakri/poseMachines.html)
 
 ### Topics Explained or Visualized
  - [Kernel Density Estimation](https://mathisonian.github.io/kde/)    
