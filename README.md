@@ -56,6 +56,16 @@
  - [An Overview of ResNet and its Variants](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
  - [What is wrong with Convolutional neural networks?](https://towardsdatascience.com/what-is-wrong-with-convolutional-neural-networks-75c2ba8fbd6f)
  - [Transfer Learning](http://cs231n.github.io/transfer-learning/) stanford notes
+ - [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
+ - [Word2Vec For Phrases — Learning Embeddings For More Than One Word](https://towardsdatascience.com/word2vec-for-phrases-learning-embeddings-for-more-than-one-word-727b6cf723cf)
+ - [Chris Olah Blog on ML/DL topics](http://colah.github.io/)
+ - [Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+ - [Word Embeddings](https://www.tensorflow.org/tutorials/text/word_embeddings)
+ - [LSTM by Example using Tensorflow](https://towardsdatascience.com/lstm-by-example-using-tensorflow-feb0c1968537)
+ - [Understanding, Deriving and Extending the LSTM](https://r2rt.com/written-memories-understanding-deriving-and-extending-the-lstm.html)
+ - [ARIMA vs. LSTM slides](https://rpubs.com/zkajdan/316135)
+ - [Auto-Generating Clickbait With Recurrent Neural Networks](https://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/)
+ - [ Neural Image Caption Generation](https://arxiv.org/pdf/1502.03044.pdf)
 
 ### Topics Explained or Visualized
  - [Kernel Density Estimation](https://mathisonian.github.io/kde/)    
@@ -78,6 +88,7 @@
  - [Understanding ROC curves](http://www.navan.name/roc/)
  - [Convolution animations](https://github.com/vdumoulin/conv_arithmetic) and [another with a detailed explaination](http://machinelearninguru.com/computer_vision/basics/convolution/convolution_layer.html)
  - ![neural network architectures cheatsheet](https://www.asimovinstitute.org/wp-content/uploads/2019/04/NeuralNetworkZoo20042019.png)
+ - [Word Embeddings Projected](https://projector.tensorflow.org/)
 
 ### Textbooks
  - [R for Data Science textbook](https://r4ds.had.co.nz)
