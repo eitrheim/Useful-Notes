@@ -54,6 +54,8 @@
  - [Convolutional Neural Networks](http://andrew.gibiansky.com/blog/machine-learning/convolutional-neural-networks/)
  - [Paper on how deep neural networks are more difficult to train](https://arxiv.org/pdf/1512.03385.pdf)
  - [An Overview of ResNet and its Variants](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
+ - [What is wrong with Convolutional neural networks?](https://towardsdatascience.com/what-is-wrong-with-convolutional-neural-networks-75c2ba8fbd6f)
+ - [Transfer Learning](http://cs231n.github.io/transfer-learning/) stanford notes
 
 ### Topics Explained or Visualized
  - [Kernel Density Estimation](https://mathisonian.github.io/kde/)    
@@ -83,6 +85,7 @@
  - [MIT Deep Learning](http://www.deeplearningbook.org/)
 
 ### Datasets
+ - [Pre-trained models: Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo) for transfer learning
  - [Chicago Data](https://data.cityofchicago.org)    
  - [India Data](https://data.gov.in/catalogs)
  - [Airline Dataset](https://www.stat.purdue.edu/~sguha/rhipe/doc/html/airline.html)    
