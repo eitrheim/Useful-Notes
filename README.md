@@ -50,6 +50,10 @@
  - [CNN example with MNIST dataset](https://ml4a.github.io/ml4a/looking_inside_neural_nets/)
  - [AlphaGo Case Study](https://deepmind.com/research/case-studies/alphago-the-story-so-far)
  - [Human pose estimation](http://www.cs.cmu.edu/~vramakri/poseMachines.html)
+ - [Understanding layers in NN](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) from google AI blog
+ - [Convolutional Neural Networks](http://andrew.gibiansky.com/blog/machine-learning/convolutional-neural-networks/)
+ - [Paper on how deep neural networks are more difficult to train](https://arxiv.org/pdf/1512.03385.pdf)
+ - [An Overview of ResNet and its Variants](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
 
 ### Topics Explained or Visualized
  - [Kernel Density Estimation](https://mathisonian.github.io/kde/)    
@@ -72,7 +76,6 @@
  - [Understanding ROC curves](http://www.navan.name/roc/)
  - [Convolution animations](https://github.com/vdumoulin/conv_arithmetic) and [another with a detailed explaination](http://machinelearninguru.com/computer_vision/basics/convolution/convolution_layer.html)
  - ![neural network architectures cheatsheet](https://www.asimovinstitute.org/wp-content/uploads/2019/04/NeuralNetworkZoo20042019.png)
- - [Convolutional Neural Networks](http://andrew.gibiansky.com/blog/machine-learning/convolutional-neural-networks/)
 
 ### Textbooks
  - [R for Data Science textbook](https://r4ds.had.co.nz)
@@ -92,7 +95,8 @@
  - [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist) with 60k train and 10k test images
  - [notMNIST dataset](http://yaroslavvb.blogspot.com/2011/09/notmnist-dataset.html) Similar to MNIST but used different fonts
  - [The CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html) 10 classes with 6k images per class
-
+ - Large Scale Visual Recognition Challenge [2012](http://www.image-net.org/challenges/LSVRC/2012/index) and [2014](http://www.image-net.org/challenges/LSVRC/2014/)
+ 
 ### Spatial Datasets/Sources
 #### Plotting in R
  - [Useful resources for tmap](https://github.com/mtennekes/tmap/#reference)   
