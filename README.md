@@ -4,8 +4,11 @@
 Update all Python packages with pip  
  - `pip list --outdated --format=freeze | grep -v '^-e' | cut -d = -f 1 | xargs -n1 pip install -U`    
 or    
- - `pip freeze --local | grep -v '^\-e' | cut -d = -f 1 | xargs -n1 pip install -U`
+ - `pip freeze --local | grep -v '^\-e' | cut -d = -f 1 | xargs -n1 pip install -U`    
 
+Install package without installing the dependencies
+ - `pip install -U --no-deps mypackage`   
+ 
 `ssh USER@hadoop.rcc.uchicago.edu` login to RCC, then enter password  
 `ls` list all directories  
 `mkdir newdir` makes new directory named newdir  
