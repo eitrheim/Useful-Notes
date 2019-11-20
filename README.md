@@ -1,5 +1,33 @@
 # Useful-Notes
 
+### Command Line Promps
+Update all Python packages with pip  
+ - `pip list --outdated --format=freeze | grep -v '^-e' | cut -d = -f 1 | xargs -n1 pip install -U`    
+or    
+ - `pip freeze --local | grep -v '^\-e' | cut -d = -f 1 | xargs -n1 pip install -U`
+
+`ssh USER@hadoop.rcc.uchicago.edu` login to RCC, then enter password  
+`ls` list all directories  
+`mkdir newdir` makes new directory named newdir  
+`rm -rf newdir`	deletes directory named newdir  
+`clear`	clears screen  
+`cd newdir`		goes into newdir  
+`cd`	goes to home  
+`pwd`	to see which file you're in  
+`rm file`	to remove 'file'  
+`ssh user@host`	connect to host as user  
+`ctrl+c` halt current command  
+`crtl+z` stop current command  
+`ctrl+d` log out of current session  
+`ctrl+w` erases one word in current line  
+`ctrl+u` erases whole line  
+`!!` repeat last command  
+`exit` log out of current session  
+`wget <url>` download file directly  
+`mv orignalFile name newFileName` to change file name  
+`tar zxvf instacart.tar.gz` unzip file  
+`hadoop fs -put /home/$USER/data/instacart /user/$USER/instacart` to put it to hadoop
+
 ### Classes
  - [Harvard Introduction to Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science?category[]=3&sort_by=date_added)
  - [Notes that accompany the Stanford CS class: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
