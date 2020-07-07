@@ -43,6 +43,8 @@ Install package without installing the dependencies
  - Best Practices
      - [The Best of the Best Practices (BOBP) Guide for Python](https://gist.github.com/sloria/7001839)
      - [Best practices for file naming](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming)
+ - Clustering
+     - [In Depth: k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)  
  - Gradient Descent Optimisation
     - [10 Gradient Descent Optimisation Algorithms](https://towardsdatascience.com/10-gradient-descent-optimisation-algorithms-86989510b5e9)
     - [Momentum gradient descent](https://distill.pub/2017/momentum/)
@@ -52,7 +54,7 @@ Install package without installing the dependencies
     - [Combine the content of one image with the style of another image](https://github.com/jcjohnson/neural-style/) and another [Photo Style Transfer](https://github.com/luanfujun/deep-photo-styletransfer) and [another example](https://github.com/jcjohnson/neural-style/
     - [CNN example with MNIST dataset](https://ml4a.github.io/ml4a/looking_inside_neural_nets/)
     - [Convolution animations](https://github.com/vdumoulin/conv_arithmetic)
-  - Natural Language Processing
+- Natural Language Processing
     - [Word Embeddings Projected](https://projector.tensorflow.org/)
     - [Word Embeddings](https://www.tensorflow.org/tutorials/text/word_embeddings)
     - [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
@@ -168,7 +170,6 @@ To put in a section
  - [Visualizing how a Neural Network works](https://playground.tensorflow.org)    
  - [Eigenvectors and Eigenvalues explained](http://setosa.io/ev/eigenvectors-and-eigenvalues/)    
  - [Principal Component Analysis explained](http://setosa.io/ev/principal-component-analysis/)
- - [In Depth: k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)  
  - [Bagging and Boosting](https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/)
  - [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/)
  - [Momentum for Gradient Decent](https://distill.pub/2017/momentum/)
