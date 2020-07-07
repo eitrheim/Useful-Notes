@@ -48,6 +48,9 @@ Install package without installing the dependencies
      - [Principal Component Analysis explained](http://setosa.io/ev/principal-component-analysis/)
  - Clustering
      - [In Depth: k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)  
+ - Ensemble Methods
+    - [Bagging and Boosting](https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/)
+    - [Implementation of a majority voting EnsembleVoteClassifier for classification](https://rasbt.github.io/mlxtend/user_guide/classifier/EnsembleVoteClassifier/)
  - Gradient Descent Optimisation
     - [10 Gradient Descent Optimisation Algorithms](https://towardsdatascience.com/10-gradient-descent-optimisation-algorithms-86989510b5e9)
     - [Momentum gradient descent](https://distill.pub/2017/momentum/)
@@ -69,6 +72,7 @@ Install package without installing the dependencies
     - [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks
     - Pretrained Image Classifier [here](http://demo.caffe.berkeleyvision.org/) and [here](http://places2.csail.mit.edu/demo.html)
     - [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf)
+    - [OpenFace: A general-purpose face recognition library](http://cmusatyalab.github.io/openface/)
 - Natural Language Processing
     - [Word Embeddings Projected](https://projector.tensorflow.org/)
     - [Word Embeddings](https://www.tensorflow.org/tutorials/text/word_embeddings)
@@ -86,6 +90,8 @@ Install package without installing the dependencies
     - [Association Rules and the Apriori Algorithm](https://www.kdnuggets.com/2016/04/association-rules-apriori-algorithm-tutorial.html)
  - Blockchain
     - [A Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
+    - [Brief overview of Blockchain](https://www.sec.gov/spotlight/investor-advisory-committee-2012/slides-nancy-liao-brief-intro-to-blockchain-iac-101217.pdf)
+    - [Blockchain summary (devopedia)](https://devopedia.org/blockchain) 
  - Big Data
     - [Differences between Hive Internal and External Tables](https://blogs.msdn.microsoft.com/cindygross/2013/02/05/hdinsight-hive-internal-and-external-tables-intro/)
     - [Predicting Breast Cancer Using Apache Spark Machine Learning Logistic Regression](https://mapr.com/blog/predicting-breast-cancer-using-apache-spark-machine-learning-logistic-regression/)
@@ -155,7 +161,6 @@ Install package without installing the dependencies
  - [Search on StackExchange here](https://gis.stackexchange.com/questions/8929/open-access-repository-of-general-gis-spatial-data) and [here](https://gis.stackexchange.com/questions/495/seeking-administrative-boundaries-for-various-countries)
 
 #### To put in a section
- - [Implementation of a majority voting EnsembleVoteClassifier for classification](https://rasbt.github.io/mlxtend/user_guide/classifier/EnsembleVoteClassifier/)
  - [An intuitive approach to Backpropagation](https://medium.com/spidernitt/breaking-down-neural-networks-an-intuitive-approach-to-backpropagation-3b2ff958794c)
  - [Priming neural networks with an appropriate initializer](https://becominghuman.ai/priming-neural-networks-with-an-appropriate-initializer-7b163990ead)
  - [How transferable are features in deep neural networks?](https://arxiv.org/pdf/1411.1792.pdf)
@@ -175,11 +180,7 @@ Install package without installing the dependencies
  - [Image Caption Generation](https://arxiv.org/pdf/1502.03044.pdf)
  - [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe's_quartet)    
  - [Visualizing how a Neural Network works](https://playground.tensorflow.org)    
- - [Bagging and Boosting](https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/)
- - [Momentum for Gradient Decent](https://distill.pub/2017/momentum/)
  - [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
- - [Blockchain summary (devopedia)](https://devopedia.org/blockchain)
- - [Brief overview of Blockchain](https://www.sec.gov/spotlight/investor-advisory-committee-2012/slides-nancy-liao-brief-intro-to-blockchain-iac-101217.pdf)
  - [MapReduce processes explained](https://www.oreilly.com/library/view/hadoop-the-definitive/9781491901687/ch04.html) but also explained [here](https://developer.yahoo.com/hadoop/tutorial/module4.html?guccounter=1%23dataflow)
  - [Apache YARN (Yet Another Resource Negotiator): Hadoop’s cluster resource management system](https://www.oreilly.com/library/view/hadoop-the-definitive/9781491901687/ch04.html)
  - [Wide VS Narrow Dependecies: Representation/DAG of what Spark analyzes to do optimizations](https://github.com/rohgar/scala-spark-4/wiki/Wide-vs-Narrow-Dependencies)
@@ -189,4 +190,4 @@ Install package without installing the dependencies
  - [another with a detailed explaination](http://machinelearninguru.com/computer_vision/basics/convolution/convolution_layer.html)
  - [Hierarchical softmax](https://www.quora.com/What-is-hierarchical-softmax)
  - [Kernel Density Estimation](https://mathisonian.github.io/kde/)  
- - [OpenFace: A general-purpose face recognition library](http://cmusatyalab.github.io/openface/)
+ 
