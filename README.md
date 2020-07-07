@@ -86,6 +86,7 @@ Install package without installing the dependencies
 - Transfer Learning
     - [How transferable are features in deep neural networks?](https://arxiv.org/pdf/1411.1792.pdf)
     - [Transfer Learning](http://cs231n.github.io/transfer-learning/) stanford notes
+    - [A Gentle Introduction to Transfer Learning for Deep Learning](https://machinelearningmastery.com/transfer-learning-for-deep-learning/)
 - Natural Language Processing
     - [Word Embeddings Projected](https://projector.tensorflow.org/)
     - [Word Embeddings](https://www.tensorflow.org/tutorials/text/word_embeddings)
@@ -122,8 +123,8 @@ Install package without installing the dependencies
     - [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe's_quartet)    
     - [Kernel Density Estimation](https://mathisonian.github.io/kde/)  
     - [Image Caption Generation with CNN + RNN](https://arxiv.org/pdf/1502.03044.pdf)
-
-
+    - [Human pose estimation](http://www.cs.cmu.edu/~vramakri/poseMachines.html)
+    - [Chris Olah Blog on ML/DL topics](http://colah.github.io/)
 
 ### Topics Explained or Visualized
  - ![neural network architectures cheatsheet](https://www.asimovinstitute.org/wp-content/uploads/2019/04/NeuralNetworkZoo20042019.png)
@@ -187,14 +188,3 @@ Install package without installing the dependencies
    data("chicago_comm")   
    ```
  - [Search on StackExchange here](https://gis.stackexchange.com/questions/8929/open-access-repository-of-general-gis-spatial-data) and [here](https://gis.stackexchange.com/questions/495/seeking-administrative-boundaries-for-various-countries)
-
-#### To put in a section
- - [A Gentle Introduction to Transfer Learning for Deep Learning](https://machinelearningmastery.com/transfer-learning-for-deep-learning/)
- - [AlphaGo Case Study](https://deepmind.com/research/case-studies/alphago-the-story-so-far)
- - [Human pose estimation](http://www.cs.cmu.edu/~vramakri/poseMachines.html)
- - [Paper on how deep neural networks are more difficult to train](https://arxiv.org/pdf/1512.03385.pdf)
- - [Chris Olah Blog on ML/DL topics](http://colah.github.io/)
- - [another with a detailed explaination](http://machinelearninguru.com/computer_vision/basics/convolution/convolution_layer.html)
- - [Hierarchical softmax](https://www.quora.com/What-is-hierarchical-softmax)
-
- 
