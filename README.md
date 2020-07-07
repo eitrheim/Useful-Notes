@@ -57,11 +57,12 @@ Install package without installing the dependencies
     - [Word Embeddings](https://www.tensorflow.org/tutorials/text/word_embeddings)
     - [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
     - [Word2Vec For Phrases — Learning Embeddings For More Than One Word](https://towardsdatascience.com/word2vec-for-phrases-learning-embeddings-for-more-than-one-word-727b6cf723cf)
- 
+    - [Learning Word Embeddings](https://lilianweng.github.io/lil-log/2017/10/15/learning-word-embedding.html)
+    - [Word2Vec For Phrases](https://towardsdatascience.com/word2vec-for-phrases-learning-embeddings-for-more-than-one-word-727b6cf723cf)
 
 
 ### Topics Explained or Visualized
- - [Kernel Density Estimation](https://mathisonian.github.io/kde/)    
+ - ![neural network architectures cheatsheet](https://www.asimovinstitute.org/wp-content/uploads/2019/04/NeuralNetworkZoo20042019.png)
  
 ### Textbooks
  - [R for Data Science textbook](https://r4ds.had.co.nz)
@@ -180,11 +181,9 @@ To put in a section
  - [Simple guide to confusion matrix terminology](https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
  - [Sensitivity and specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
  - [Understanding ROC curves](http://www.navan.name/roc/)
- and [another with a detailed explaination](http://machinelearninguru.com/computer_vision/basics/convolution/convolution_layer.html)
- - ![neural network architectures cheatsheet](https://www.asimovinstitute.org/wp-content/uploads/2019/04/NeuralNetworkZoo20042019.png)
+ - [another with a detailed explaination](http://machinelearninguru.com/computer_vision/basics/convolution/convolution_layer.html)
  - [Hierarchical softmax](https://www.quora.com/What-is-hierarchical-softmax)
- - [Learning Word Embeddings](https://lilianweng.github.io/lil-log/2017/10/15/learning-word-embedding.html)
- - [Word2Vec For Phrases](https://towardsdatascience.com/word2vec-for-phrases-learning-embeddings-for-more-than-one-word-727b6cf723cf)
+ - [Kernel Density Estimation](https://mathisonian.github.io/kde/)  
   - Recommender Systems
      - [5 Types of Recommender Systems](https://www.datasciencecentral.com/profiles/blogs/5-types-of-recommenders)
      - [Association Rules and the Apriori Algorithm](https://www.kdnuggets.com/2016/04/association-rules-apriori-algorithm-tutorial.html)
