@@ -53,6 +53,7 @@ Install package without installing the dependencies
     - [Momentum gradient descent](https://distill.pub/2017/momentum/)
     - [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/)
  - Neural Network/Deep Learning Overview and Training
+    - [How to build a simple artificial neural network](https://sausheong.github.io/posts/how-to-build-a-simple-artificial-neural-network-with-go/)
     - [Setting hyperparameters for Neural Networks](http://cs231n.github.io/neural-networks-3/#summary)
     - [Training Deep Learning models entirely in your browser](https://cs.stanford.edu/people/karpathy/convnetjs/)
  - Convolutional Neural Networks and Images
@@ -83,6 +84,11 @@ Install package without installing the dependencies
     - [Collaborative filtering for movie recommendations](http://ampcamp.berkeley.edu/big-data-mini-course/movie-recommendation-with-mllib.html)
     - [Deep learning for recommender systems](https://ebaytech.berlin/deep-learning-for-recommender-systems-48c786a20e1a)
     - [Association Rules and the Apriori Algorithm](https://www.kdnuggets.com/2016/04/association-rules-apriori-algorithm-tutorial.html)
+ - Blockchain
+    - [A Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
+ - Big Data
+    - [Differences between Hive Internal and External Tables](https://blogs.msdn.microsoft.com/cindygross/2013/02/05/hdinsight-hive-internal-and-external-tables-intro/)
+    - [Predicting Breast Cancer Using Apache Spark Machine Learning Logistic Regression](https://mapr.com/blog/predicting-breast-cancer-using-apache-spark-machine-learning-logistic-regression/)
  
 
 ### Topics Explained or Visualized
@@ -149,11 +155,6 @@ Install package without installing the dependencies
  - [Search on StackExchange here](https://gis.stackexchange.com/questions/8929/open-access-repository-of-general-gis-spatial-data) and [here](https://gis.stackexchange.com/questions/495/seeking-administrative-boundaries-for-various-countries)
 
 #### To put in a section
- - [Graph Database example to find insurance fraud](https://neo4j.com/blog/insurance-fraud-detection-graph-database/)
- - [A Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
- - [Differences between Hive Internal and External Tables](https://blogs.msdn.microsoft.com/cindygross/2013/02/05/hdinsight-hive-internal-and-external-tables-intro/)
- - [Predicting Breast Cancer Using Apache Spark Machine Learning Logistic Regression](https://mapr.com/blog/predicting-breast-cancer-using-apache-spark-machine-learning-logistic-regression/)
- - [How to build a simple artificial neural network](https://sausheong.github.io/posts/how-to-build-a-simple-artificial-neural-network-with-go/)
  - [Implementation of a majority voting EnsembleVoteClassifier for classification](https://rasbt.github.io/mlxtend/user_guide/classifier/EnsembleVoteClassifier/)
  - [An intuitive approach to Backpropagation](https://medium.com/spidernitt/breaking-down-neural-networks-an-intuitive-approach-to-backpropagation-3b2ff958794c)
  - [Priming neural networks with an appropriate initializer](https://becominghuman.ai/priming-neural-networks-with-an-appropriate-initializer-7b163990ead)
