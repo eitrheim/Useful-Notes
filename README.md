@@ -46,6 +46,19 @@ Install package without installing the dependencies
  - Gradient Descent Optimisation
     - [10 Gradient Descent Optimisation Algorithms](https://towardsdatascience.com/10-gradient-descent-optimisation-algorithms-86989510b5e9)
     - [Momentum gradient descent](https://distill.pub/2017/momentum/)
+ - Neural Network Training
+    - [Setting hyperparameters for Neural Networks](http://cs231n.github.io/neural-networks-3/#summary)
+ - Convolutional Neural Networks and Images
+    - [Combine the content of one image with the style of another image](https://github.com/jcjohnson/neural-style/) and another [Photo Style Transfer](https://github.com/luanfujun/deep-photo-styletransfer) and [another example](https://github.com/jcjohnson/neural-style/
+    - [CNN example with MNIST dataset](https://ml4a.github.io/ml4a/looking_inside_neural_nets/)
+    - [Convolution animations](https://github.com/vdumoulin/conv_arithmetic)
+  - Natural Language Processing
+    - [Word Embeddings Projected](https://projector.tensorflow.org/)
+    - [Word Embeddings](https://www.tensorflow.org/tutorials/text/word_embeddings)
+    - [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
+    - [Word2Vec For Phrases — Learning Embeddings For More Than One Word](https://towardsdatascience.com/word2vec-for-phrases-learning-embeddings-for-more-than-one-word-727b6cf723cf)
+ 
+
 
 ### Topics Explained or Visualized
  - [Kernel Density Estimation](https://mathisonian.github.io/kde/)    
@@ -115,8 +128,6 @@ Install package without installing the dependencies
 
 
 To put in a section
- - [Setting hyperparameters for Neural Networks](http://cs231n.github.io/neural-networks-3/#summary)
- - [Combine the content of one image with the style of another image](https://github.com/jcjohnson/neural-style/)
  - [Using XGBoost in Python](https://www.datacamp.com/community/tutorials/xgboost-in-python)
  - [Training Deep Learning models entirely in your browser](https://cs.stanford.edu/people/karpathy/convnetjs/)
  - [Built-in functions in Python](https://docs.python.org/3.3/library/functions.html)    
@@ -137,7 +148,6 @@ To put in a section
  - [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
  - [Feature Visualization](https://distill.pub/2017/feature-visualization/) how neural networks build up their understanding of images
  - [ResNet, AlexNet, VGGNet, Inception: Understanding various architectures of Convolutional Networks](https://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/)
- - [CNN example with MNIST dataset](https://ml4a.github.io/ml4a/looking_inside_neural_nets/)
  - [AlphaGo Case Study](https://deepmind.com/research/case-studies/alphago-the-story-so-far)
  - [Human pose estimation](http://www.cs.cmu.edu/~vramakri/poseMachines.html)
  - [Understanding layers in NN](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) from google AI blog
@@ -146,16 +156,13 @@ To put in a section
  - [An Overview of ResNet and its Variants](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
  - [What is wrong with Convolutional neural networks?](https://towardsdatascience.com/what-is-wrong-with-convolutional-neural-networks-75c2ba8fbd6f)
  - [Transfer Learning](http://cs231n.github.io/transfer-learning/) stanford notes
- - [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
- - [Word2Vec For Phrases — Learning Embeddings For More Than One Word](https://towardsdatascience.com/word2vec-for-phrases-learning-embeddings-for-more-than-one-word-727b6cf723cf)
  - [Chris Olah Blog on ML/DL topics](http://colah.github.io/)
  - [Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
- - [Word Embeddings](https://www.tensorflow.org/tutorials/text/word_embeddings)
  - [LSTM by Example using Tensorflow](https://towardsdatascience.com/lstm-by-example-using-tensorflow-feb0c1968537)
  - [Understanding, Deriving and Extending the LSTM](https://r2rt.com/written-memories-understanding-deriving-and-extending-the-lstm.html)
  - [ARIMA vs. LSTM slides](https://rpubs.com/zkajdan/316135)
  - [Auto-Generating Clickbait With Recurrent Neural Networks](https://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/)
- - [ Neural Image Caption Generation](https://arxiv.org/pdf/1502.03044.pdf)
+ - [Image Caption Generation](https://arxiv.org/pdf/1502.03044.pdf)
  - [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe's_quartet)    
  - [Visualizing how a Neural Network works](https://playground.tensorflow.org)    
  - [Eigenvectors and Eigenvalues explained](http://setosa.io/ev/eigenvectors-and-eigenvalues/)    
@@ -173,9 +180,8 @@ To put in a section
  - [Simple guide to confusion matrix terminology](https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
  - [Sensitivity and specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
  - [Understanding ROC curves](http://www.navan.name/roc/)
- - [Convolution animations](https://github.com/vdumoulin/conv_arithmetic) and [another with a detailed explaination](http://machinelearninguru.com/computer_vision/basics/convolution/convolution_layer.html)
+ and [another with a detailed explaination](http://machinelearninguru.com/computer_vision/basics/convolution/convolution_layer.html)
  - ![neural network architectures cheatsheet](https://www.asimovinstitute.org/wp-content/uploads/2019/04/NeuralNetworkZoo20042019.png)
- - [Word Embeddings Projected](https://projector.tensorflow.org/)
  - [Hierarchical softmax](https://www.quora.com/What-is-hierarchical-softmax)
  - [Learning Word Embeddings](https://lilianweng.github.io/lil-log/2017/10/15/learning-word-embedding.html)
  - [Word2Vec For Phrases](https://towardsdatascience.com/word2vec-for-phrases-learning-embeddings-for-more-than-one-word-727b6cf723cf)
@@ -188,7 +194,6 @@ To put in a section
      - [Collaborative filtering for movie recommendations](http://ampcamp.berkeley.edu/big-data-mini-course/movie-recommendation-with-mllib.html)
      - [Deep learning for recommender systems](https://ebaytech.berlin/deep-learning-for-recommender-systems-48c786a20e1a)
  - Images and Deep Learning
-     - [Photo Style Transfer](https://github.com/luanfujun/deep-photo-styletransfer) and [another example](https://github.com/jcjohnson/neural-style/)
      - [OpenFace: A general-purpose face recognition library](http://cmusatyalab.github.io/openface/)
      - Pretrained Image Classifier [here](http://demo.caffe.berkeleyvision.org/) and [here](http://places2.csail.mit.edu/demo.html)
      - [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf)
