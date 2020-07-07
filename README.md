@@ -51,7 +51,7 @@ Install package without installing the dependencies
  - Gradient Descent Optimisation
     - [10 Gradient Descent Optimisation Algorithms](https://towardsdatascience.com/10-gradient-descent-optimisation-algorithms-86989510b5e9)
     - [Momentum gradient descent](https://distill.pub/2017/momentum/)
- - Neural Network Training
+ - Neural Network Overview and Training
     - [Setting hyperparameters for Neural Networks](http://cs231n.github.io/neural-networks-3/#summary)
  - Convolutional Neural Networks and Images
     - [Feature Visualization](https://distill.pub/2017/feature-visualization/) how neural networks build up their understanding of images
@@ -62,6 +62,8 @@ Install package without installing the dependencies
     - [What is wrong with Convolutional neural networks?](https://towardsdatascience.com/what-is-wrong-with-convolutional-neural-networks-75c2ba8fbd6f)
     - [Convolutional Neural Networks](http://andrew.gibiansky.com/blog/machine-learning/convolutional-neural-networks/)
     - [Understanding layers in NN](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) from google AI blog
+    - Pretrained Image Classifier [here](http://demo.caffe.berkeleyvision.org/) and [here](http://places2.csail.mit.edu/demo.html)
+    - [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf)
 - Natural Language Processing
     - [Word Embeddings Projected](https://projector.tensorflow.org/)
     - [Word Embeddings](https://www.tensorflow.org/tutorials/text/word_embeddings)
@@ -142,14 +144,9 @@ Install package without installing the dependencies
    ```
  - [Search on StackExchange here](https://gis.stackexchange.com/questions/8929/open-access-repository-of-general-gis-spatial-data) and [here](https://gis.stackexchange.com/questions/495/seeking-administrative-boundaries-for-various-countries)
 
-
-
-
-
-To put in a section
+#### To put in a section
  - [Using XGBoost in Python](https://www.datacamp.com/community/tutorials/xgboost-in-python)
  - [Training Deep Learning models entirely in your browser](https://cs.stanford.edu/people/karpathy/convnetjs/)
- - [Built-in functions in Python](https://docs.python.org/3.3/library/functions.html)    
  - [Using MongoDB and Chicago data](https://www.mongodb.com/customers/city-of-chicago)
  - [Graph Database example to find insurance fraud](https://neo4j.com/blog/insurance-fraud-detection-graph-database/)
  - [A Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
@@ -194,6 +191,3 @@ To put in a section
  - [Hierarchical softmax](https://www.quora.com/What-is-hierarchical-softmax)
  - [Kernel Density Estimation](https://mathisonian.github.io/kde/)  
  - [OpenFace: A general-purpose face recognition library](http://cmusatyalab.github.io/openface/)
- - Pretrained Image Classifier [here](http://demo.caffe.berkeleyvision.org/) and [here](http://places2.csail.mit.edu/demo.html)
- - [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf)
-
