@@ -51,8 +51,9 @@ Install package without installing the dependencies
  - Gradient Descent Optimisation
     - [10 Gradient Descent Optimisation Algorithms](https://towardsdatascience.com/10-gradient-descent-optimisation-algorithms-86989510b5e9)
     - [Momentum gradient descent](https://distill.pub/2017/momentum/)
- - Neural Network Overview and Training
+ - Neural Network/Deep Learning Overview and Training
     - [Setting hyperparameters for Neural Networks](http://cs231n.github.io/neural-networks-3/#summary)
+    - [Training Deep Learning models entirely in your browser](https://cs.stanford.edu/people/karpathy/convnetjs/)
  - Convolutional Neural Networks and Images
     - [Feature Visualization](https://distill.pub/2017/feature-visualization/) how neural networks build up their understanding of images
     - [Combine the content of one image with the style of another image](https://github.com/jcjohnson/neural-style/) and another [Photo Style Transfer](https://github.com/luanfujun/deep-photo-styletransfer) and [another example](https://github.com/jcjohnson/neural-style/
@@ -145,9 +146,6 @@ Install package without installing the dependencies
  - [Search on StackExchange here](https://gis.stackexchange.com/questions/8929/open-access-repository-of-general-gis-spatial-data) and [here](https://gis.stackexchange.com/questions/495/seeking-administrative-boundaries-for-various-countries)
 
 #### To put in a section
- - [Using XGBoost in Python](https://www.datacamp.com/community/tutorials/xgboost-in-python)
- - [Training Deep Learning models entirely in your browser](https://cs.stanford.edu/people/karpathy/convnetjs/)
- - [Using MongoDB and Chicago data](https://www.mongodb.com/customers/city-of-chicago)
  - [Graph Database example to find insurance fraud](https://neo4j.com/blog/insurance-fraud-detection-graph-database/)
  - [A Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
  - [Differences between Hive Internal and External Tables](https://blogs.msdn.microsoft.com/cindygross/2013/02/05/hdinsight-hive-internal-and-external-tables-intro/)
