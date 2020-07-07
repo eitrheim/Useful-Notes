@@ -62,6 +62,7 @@ Install package without installing the dependencies
     - [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/)
  - Neural Network/Deep Learning Overview and Training
     - [How to build a simple artificial neural network](https://sausheong.github.io/posts/how-to-build-a-simple-artificial-neural-network-with-go/)
+    - [Visualizing how a Neural Network works](https://playground.tensorflow.org)    
     - [Setting hyperparameters for Neural Networks](http://cs231n.github.io/neural-networks-3/#summary)
     - [Training Deep Learning models entirely in your browser](https://cs.stanford.edu/people/karpathy/convnetjs/)
     - [An intuitive approach to Backpropagation](https://medium.com/spidernitt/breaking-down-neural-networks-an-intuitive-approach-to-backpropagation-3b2ff958794c)
@@ -111,7 +112,8 @@ Install package without installing the dependencies
     - [Wide VS Narrow Dependecies: Representation/DAG of what Spark analyzes to do optimizations](https://github.com/rohgar/scala-spark-4/wiki/Wide-vs-Narrow-Dependencies)
  - Miscellaneous
     - [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe's_quartet)    
- 
+    - [Image Caption Generation with CNN + RNN](https://arxiv.org/pdf/1502.03044.pdf)
+
 
 
 ### Topics Explained or Visualized
@@ -189,8 +191,6 @@ Install package without installing the dependencies
  - [LSTM by Example using Tensorflow](https://towardsdatascience.com/lstm-by-example-using-tensorflow-feb0c1968537)
  - [Understanding, Deriving and Extending the LSTM](https://r2rt.com/written-memories-understanding-deriving-and-extending-the-lstm.html)
  - [ARIMA vs. LSTM slides](https://rpubs.com/zkajdan/316135)
- - [Image Caption Generation](https://arxiv.org/pdf/1502.03044.pdf)
- - [Visualizing how a Neural Network works](https://playground.tensorflow.org)    
  - [another with a detailed explaination](http://machinelearninguru.com/computer_vision/basics/convolution/convolution_layer.html)
  - [Hierarchical softmax](https://www.quora.com/What-is-hierarchical-softmax)
  - [Kernel Density Estimation](https://mathisonian.github.io/kde/)  
