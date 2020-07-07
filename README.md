@@ -82,6 +82,7 @@ Install package without installing the dependencies
     - Pretrained Image Classifier [here](http://demo.caffe.berkeleyvision.org/) and [here](http://places2.csail.mit.edu/demo.html)
     - [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf)
     - [OpenFace: A general-purpose face recognition library](http://cmusatyalab.github.io/openface/)
+    - [Convolutions and Backpropagations](https://medium.com/@pavisj/convolutions-and-backpropagations-46026a8f5d2c)
 - Natural Language Processing
     - [Word Embeddings Projected](https://projector.tensorflow.org/)
     - [Word Embeddings](https://www.tensorflow.org/tutorials/text/word_embeddings)
@@ -101,6 +102,7 @@ Install package without installing the dependencies
     - [Auto-Generating Clickbait With Recurrent Neural Networks](https://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/)
     - [Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
     - [LSTM by Example using Tensorflow](https://towardsdatascience.com/lstm-by-example-using-tensorflow-feb0c1968537)
+    - [Understanding, Deriving and Extending the LSTM](https://r2rt.com/written-memories-understanding-deriving-and-extending-the-lstm.html)
  - Blockchain
     - [A Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
     - [Brief overview of Blockchain](https://www.sec.gov/spotlight/investor-advisory-committee-2012/slides-nancy-liao-brief-intro-to-blockchain-iac-101217.pdf)
@@ -185,13 +187,11 @@ Install package without installing the dependencies
 #### To put in a section
  - [How transferable are features in deep neural networks?](https://arxiv.org/pdf/1411.1792.pdf)
  - [A Gentle Introduction to Transfer Learning for Deep Learning](https://machinelearningmastery.com/transfer-learning-for-deep-learning/)
- - [Convolutions and Backpropagations](https://medium.com/@pavisj/convolutions-and-backpropagations-46026a8f5d2c)
  - [AlphaGo Case Study](https://deepmind.com/research/case-studies/alphago-the-story-so-far)
  - [Human pose estimation](http://www.cs.cmu.edu/~vramakri/poseMachines.html)
  - [Paper on how deep neural networks are more difficult to train](https://arxiv.org/pdf/1512.03385.pdf)
  - [Transfer Learning](http://cs231n.github.io/transfer-learning/) stanford notes
  - [Chris Olah Blog on ML/DL topics](http://colah.github.io/)
- - [Understanding, Deriving and Extending the LSTM](https://r2rt.com/written-memories-understanding-deriving-and-extending-the-lstm.html)
  - [another with a detailed explaination](http://machinelearninguru.com/computer_vision/basics/convolution/convolution_layer.html)
  - [Hierarchical softmax](https://www.quora.com/What-is-hierarchical-softmax)
  - [Kernel Density Estimation](https://mathisonian.github.io/kde/)  
