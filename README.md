@@ -48,6 +48,11 @@ Install package without installing the dependencies
      - [Principal Component Analysis explained](http://setosa.io/ev/principal-component-analysis/)
  - Clustering
      - [In Depth: k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)  
+ - Validation
+     - [Simple guide to confusion matrix terminology](https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
+     - [Sensitivity and specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
+     - [Understanding ROC curves](http://www.navan.name/roc/)
+     - [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
  - Ensemble Methods
     - [Bagging and Boosting](https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/)
     - [Implementation of a majority voting EnsembleVoteClassifier for classification](https://rasbt.github.io/mlxtend/user_guide/classifier/EnsembleVoteClassifier/)
@@ -101,7 +106,13 @@ Install package without installing the dependencies
  - Big Data
     - [Differences between Hive Internal and External Tables](https://blogs.msdn.microsoft.com/cindygross/2013/02/05/hdinsight-hive-internal-and-external-tables-intro/)
     - [Predicting Breast Cancer Using Apache Spark Machine Learning Logistic Regression](https://mapr.com/blog/predicting-breast-cancer-using-apache-spark-machine-learning-logistic-regression/)
+    - [MapReduce processes explained](https://www.oreilly.com/library/view/hadoop-the-definitive/9781491901687/ch04.html) but also explained [here](https://developer.yahoo.com/hadoop/tutorial/module4.html?guccounter=1%23dataflow)
+    - [Apache YARN (Yet Another Resource Negotiator): Hadoop’s cluster resource management system](https://www.oreilly.com/library/view/hadoop-the-definitive/9781491901687/ch04.html)
+    - [Wide VS Narrow Dependecies: Representation/DAG of what Spark analyzes to do optimizations](https://github.com/rohgar/scala-spark-4/wiki/Wide-vs-Narrow-Dependencies)
+ - Miscellaneous
+    - [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe's_quartet)    
  
+
 
 ### Topics Explained or Visualized
  - ![neural network architectures cheatsheet](https://www.asimovinstitute.org/wp-content/uploads/2019/04/NeuralNetworkZoo20042019.png)
@@ -179,15 +190,7 @@ Install package without installing the dependencies
  - [Understanding, Deriving and Extending the LSTM](https://r2rt.com/written-memories-understanding-deriving-and-extending-the-lstm.html)
  - [ARIMA vs. LSTM slides](https://rpubs.com/zkajdan/316135)
  - [Image Caption Generation](https://arxiv.org/pdf/1502.03044.pdf)
- - [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe's_quartet)    
  - [Visualizing how a Neural Network works](https://playground.tensorflow.org)    
- - [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
- - [MapReduce processes explained](https://www.oreilly.com/library/view/hadoop-the-definitive/9781491901687/ch04.html) but also explained [here](https://developer.yahoo.com/hadoop/tutorial/module4.html?guccounter=1%23dataflow)
- - [Apache YARN (Yet Another Resource Negotiator): Hadoop’s cluster resource management system](https://www.oreilly.com/library/view/hadoop-the-definitive/9781491901687/ch04.html)
- - [Wide VS Narrow Dependecies: Representation/DAG of what Spark analyzes to do optimizations](https://github.com/rohgar/scala-spark-4/wiki/Wide-vs-Narrow-Dependencies)
- - [Simple guide to confusion matrix terminology](https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
- - [Sensitivity and specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
- - [Understanding ROC curves](http://www.navan.name/roc/)
  - [another with a detailed explaination](http://machinelearninguru.com/computer_vision/basics/convolution/convolution_layer.html)
  - [Hierarchical softmax](https://www.quora.com/What-is-hierarchical-softmax)
  - [Kernel Density Estimation](https://mathisonian.github.io/kde/)  
