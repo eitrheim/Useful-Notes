@@ -51,6 +51,7 @@ Install package without installing the dependencies
  - Gradient Descent Optimisation
     - [10 Gradient Descent Optimisation Algorithms](https://towardsdatascience.com/10-gradient-descent-optimisation-algorithms-86989510b5e9)
     - [Momentum gradient descent](https://distill.pub/2017/momentum/)
+    - [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/)
  - Neural Network/Deep Learning Overview and Training
     - [Setting hyperparameters for Neural Networks](http://cs231n.github.io/neural-networks-3/#summary)
     - [Training Deep Learning models entirely in your browser](https://cs.stanford.edu/people/karpathy/convnetjs/)
@@ -60,9 +61,11 @@ Install package without installing the dependencies
     - [CNN example with MNIST dataset](https://ml4a.github.io/ml4a/looking_inside_neural_nets/)
     - [Convolution animations](https://github.com/vdumoulin/conv_arithmetic)
     - [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/neural-networks-2/)
+    - [ResNet, AlexNet, VGGNet, Inception: Understanding various architectures of Convolutional Networks](https://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/)
     - [What is wrong with Convolutional neural networks?](https://towardsdatascience.com/what-is-wrong-with-convolutional-neural-networks-75c2ba8fbd6f)
     - [Convolutional Neural Networks](http://andrew.gibiansky.com/blog/machine-learning/convolutional-neural-networks/)
     - [Understanding layers in NN](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) from google AI blog
+    - [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks
     - Pretrained Image Classifier [here](http://demo.caffe.berkeleyvision.org/) and [here](http://places2.csail.mit.edu/demo.html)
     - [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf)
 - Natural Language Processing
@@ -157,8 +160,6 @@ Install package without installing the dependencies
  - [How transferable are features in deep neural networks?](https://arxiv.org/pdf/1411.1792.pdf)
  - [A Gentle Introduction to Transfer Learning for Deep Learning](https://machinelearningmastery.com/transfer-learning-for-deep-learning/)
  - [Convolutions and Backpropagations](https://medium.com/@pavisj/convolutions-and-backpropagations-46026a8f5d2c)
- - [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
- - [ResNet, AlexNet, VGGNet, Inception: Understanding various architectures of Convolutional Networks](https://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/)
  - [AlphaGo Case Study](https://deepmind.com/research/case-studies/alphago-the-story-so-far)
  - [Human pose estimation](http://www.cs.cmu.edu/~vramakri/poseMachines.html)
  - [Paper on how deep neural networks are more difficult to train](https://arxiv.org/pdf/1512.03385.pdf)
@@ -174,7 +175,6 @@ Install package without installing the dependencies
  - [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe's_quartet)    
  - [Visualizing how a Neural Network works](https://playground.tensorflow.org)    
  - [Bagging and Boosting](https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/)
- - [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/)
  - [Momentum for Gradient Decent](https://distill.pub/2017/momentum/)
  - [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
  - [Blockchain summary (devopedia)](https://devopedia.org/blockchain)
