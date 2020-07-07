@@ -35,26 +35,17 @@ Install package without installing the dependencies
  - [Harvard Introduction to Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science?category[]=3&sort_by=date_added)
  - [Notes that accompany the Stanford CS class: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 
-### Tips, Tutorials, How-tos
+### Tips, Tutorials, How-tos, Visualizations
  - Plotting and Graphing
      - [Top 5 tricks to make plots look better](https://medium.com/@andykashyap/top-5-tricks-to-make-plots-look-better-9f6e687c1e08) 
      - [Plotting with categorical data with Seaborn](https://seaborn.pydata.org/tutorial/categorical.html?highlight=seaborn%20bar) 
      - [Sankey Diagram in Python](https://plot.ly/python/sankey-diagram/)    
-  - Recommender Systems
-     - [5 Types of Recommender Systems](https://www.datasciencecentral.com/profiles/blogs/5-types-of-recommenders)
-     - [Association Rules and the Apriori Algorithm](https://www.kdnuggets.com/2016/04/association-rules-apriori-algorithm-tutorial.html)
-     - [Apriori vs FP-Growth for Frequent Item Set Mining](https://www.singularities.com/blog/our-blog-1/post/apriori-vs-fp-growth-for-frequent-item-set-mining-11)
-     - [How Shopify Uses Recommender Systems to Empower Entrepreneurs](https://medium.com/data-shopify/how-shopify-uses-recommender-systems-to-empower-entrepreneurs-99553b407944)
-     - [Various Implementations of Collaborative Filtering](https://towardsdatascience.com/various-implementations-of-collaborative-filtering-100385c6dfe0)
-     - [Collaborative filtering for movie recommendations](http://ampcamp.berkeley.edu/big-data-mini-course/movie-recommendation-with-mllib.html)
-     - [Deep learning for recommender systems](https://ebaytech.berlin/deep-learning-for-recommender-systems-48c786a20e1a)
- - Images and Deep Learning
-     - [Photo Style Transfer](https://github.com/luanfujun/deep-photo-styletransfer) and [another example](https://github.com/jcjohnson/neural-style/)
-     - [OpenFace: A general-purpose face recognition library](http://cmusatyalab.github.io/openface/)
-     - Pretrained Image Classifier [here](http://demo.caffe.berkeleyvision.org/) and [here](http://places2.csail.mit.edu/demo.html)
-     - [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf)
- 
- 
+ - Best Practices
+     - [The Best of the Best Practices (BOBP) Guide for Python](https://gist.github.com/sloria/7001839)
+     - [Best practices for file naming](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming)
+ - Gradient Descent Optimisation
+    - [10 Gradient Descent Optimisation Algorithms](https://towardsdatascience.com/10-gradient-descent-optimisation-algorithms-86989510b5e9)
+    - [Momentum gradient descent](https://distill.pub/2017/momentum/)
 
 ### Topics Explained or Visualized
  - [Kernel Density Estimation](https://mathisonian.github.io/kde/)    
@@ -124,14 +115,11 @@ Install package without installing the dependencies
 
 
 To put in a section
- - [The Best of the Best Practices (BOBP) Guide for Python](https://gist.github.com/sloria/7001839)
  - [Setting hyperparameters for Neural Networks](http://cs231n.github.io/neural-networks-3/#summary)
- - [10 Gradient Descent Optimisation Algorithms](https://towardsdatascience.com/10-gradient-descent-optimisation-algorithms-86989510b5e9)
  - [Combine the content of one image with the style of another image](https://github.com/jcjohnson/neural-style/)
  - [Using XGBoost in Python](https://www.datacamp.com/community/tutorials/xgboost-in-python)
  - [Training Deep Learning models entirely in your browser](https://cs.stanford.edu/people/karpathy/convnetjs/)
  - [Built-in functions in Python](https://docs.python.org/3.3/library/functions.html)    
- - [Best practices for file naming](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming)
  - [Using MongoDB and Chicago data](https://www.mongodb.com/customers/city-of-chicago)
  - [Graph Database example to find insurance fraud](https://neo4j.com/blog/insurance-fraud-detection-graph-database/)
  - [A Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
@@ -168,13 +156,11 @@ To put in a section
  - [ARIMA vs. LSTM slides](https://rpubs.com/zkajdan/316135)
  - [Auto-Generating Clickbait With Recurrent Neural Networks](https://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/)
  - [ Neural Image Caption Generation](https://arxiv.org/pdf/1502.03044.pdf)
- images?
  - [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe's_quartet)    
  - [Visualizing how a Neural Network works](https://playground.tensorflow.org)    
  - [Eigenvectors and Eigenvalues explained](http://setosa.io/ev/eigenvectors-and-eigenvalues/)    
  - [Principal Component Analysis explained](http://setosa.io/ev/principal-component-analysis/)
  - [In Depth: k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)  
- - [Momentum gradient descent](https://distill.pub/2017/momentum/)
  - [Bagging and Boosting](https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/)
  - [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/)
  - [Momentum for Gradient Decent](https://distill.pub/2017/momentum/)
@@ -193,3 +179,17 @@ To put in a section
  - [Hierarchical softmax](https://www.quora.com/What-is-hierarchical-softmax)
  - [Learning Word Embeddings](https://lilianweng.github.io/lil-log/2017/10/15/learning-word-embedding.html)
  - [Word2Vec For Phrases](https://towardsdatascience.com/word2vec-for-phrases-learning-embeddings-for-more-than-one-word-727b6cf723cf)
+  - Recommender Systems
+     - [5 Types of Recommender Systems](https://www.datasciencecentral.com/profiles/blogs/5-types-of-recommenders)
+     - [Association Rules and the Apriori Algorithm](https://www.kdnuggets.com/2016/04/association-rules-apriori-algorithm-tutorial.html)
+     - [Apriori vs FP-Growth for Frequent Item Set Mining](https://www.singularities.com/blog/our-blog-1/post/apriori-vs-fp-growth-for-frequent-item-set-mining-11)
+     - [How Shopify Uses Recommender Systems to Empower Entrepreneurs](https://medium.com/data-shopify/how-shopify-uses-recommender-systems-to-empower-entrepreneurs-99553b407944)
+     - [Various Implementations of Collaborative Filtering](https://towardsdatascience.com/various-implementations-of-collaborative-filtering-100385c6dfe0)
+     - [Collaborative filtering for movie recommendations](http://ampcamp.berkeley.edu/big-data-mini-course/movie-recommendation-with-mllib.html)
+     - [Deep learning for recommender systems](https://ebaytech.berlin/deep-learning-for-recommender-systems-48c786a20e1a)
+ - Images and Deep Learning
+     - [Photo Style Transfer](https://github.com/luanfujun/deep-photo-styletransfer) and [another example](https://github.com/jcjohnson/neural-style/)
+     - [OpenFace: A general-purpose face recognition library](http://cmusatyalab.github.io/openface/)
+     - Pretrained Image Classifier [here](http://demo.caffe.berkeleyvision.org/) and [here](http://places2.csail.mit.edu/demo.html)
+     - [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf)
+
