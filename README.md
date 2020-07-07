@@ -97,9 +97,10 @@ Install package without installing the dependencies
     - [Collaborative filtering for movie recommendations](http://ampcamp.berkeley.edu/big-data-mini-course/movie-recommendation-with-mllib.html)
     - [Deep learning for recommender systems](https://ebaytech.berlin/deep-learning-for-recommender-systems-48c786a20e1a)
     - [Association Rules and the Apriori Algorithm](https://www.kdnuggets.com/2016/04/association-rules-apriori-algorithm-tutorial.html)
- - Recurrent Neural Networks
+ - Recurrent Neural Networks and Long Short-Term Memory (LSTM)
     - [Auto-Generating Clickbait With Recurrent Neural Networks](https://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/)
     - [Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+    - [LSTM by Example using Tensorflow](https://towardsdatascience.com/lstm-by-example-using-tensorflow-feb0c1968537)
  - Blockchain
     - [A Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/)
     - [Brief overview of Blockchain](https://www.sec.gov/spotlight/investor-advisory-committee-2012/slides-nancy-liao-brief-intro-to-blockchain-iac-101217.pdf)
@@ -110,6 +111,8 @@ Install package without installing the dependencies
     - [MapReduce processes explained](https://www.oreilly.com/library/view/hadoop-the-definitive/9781491901687/ch04.html) but also explained [here](https://developer.yahoo.com/hadoop/tutorial/module4.html?guccounter=1%23dataflow)
     - [Apache YARN (Yet Another Resource Negotiator): Hadoop’s cluster resource management system](https://www.oreilly.com/library/view/hadoop-the-definitive/9781491901687/ch04.html)
     - [Wide VS Narrow Dependecies: Representation/DAG of what Spark analyzes to do optimizations](https://github.com/rohgar/scala-spark-4/wiki/Wide-vs-Narrow-Dependencies)
+ - Time Series
+    - [ARIMA vs. LSTM slides](https://rpubs.com/zkajdan/316135)
  - Miscellaneous
     - [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe's_quartet)    
     - [Image Caption Generation with CNN + RNN](https://arxiv.org/pdf/1502.03044.pdf)
@@ -188,9 +191,7 @@ Install package without installing the dependencies
  - [Paper on how deep neural networks are more difficult to train](https://arxiv.org/pdf/1512.03385.pdf)
  - [Transfer Learning](http://cs231n.github.io/transfer-learning/) stanford notes
  - [Chris Olah Blog on ML/DL topics](http://colah.github.io/)
- - [LSTM by Example using Tensorflow](https://towardsdatascience.com/lstm-by-example-using-tensorflow-feb0c1968537)
  - [Understanding, Deriving and Extending the LSTM](https://r2rt.com/written-memories-understanding-deriving-and-extending-the-lstm.html)
- - [ARIMA vs. LSTM slides](https://rpubs.com/zkajdan/316135)
  - [another with a detailed explaination](http://machinelearninguru.com/computer_vision/basics/convolution/convolution_layer.html)
  - [Hierarchical softmax](https://www.quora.com/What-is-hierarchical-softmax)
  - [Kernel Density Estimation](https://mathisonian.github.io/kde/)  
