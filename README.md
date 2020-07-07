@@ -43,6 +43,9 @@ Install package without installing the dependencies
  - Best Practices
      - [The Best of the Best Practices (BOBP) Guide for Python](https://gist.github.com/sloria/7001839)
      - [Best practices for file naming](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming)
+ - Principal Component Analysis
+     - [Eigenvectors and Eigenvalues explained](http://setosa.io/ev/eigenvectors-and-eigenvalues/)    
+     - [Principal Component Analysis explained](http://setosa.io/ev/principal-component-analysis/)
  - Clustering
      - [In Depth: k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)  
  - Gradient Descent Optimisation
@@ -51,9 +54,14 @@ Install package without installing the dependencies
  - Neural Network Training
     - [Setting hyperparameters for Neural Networks](http://cs231n.github.io/neural-networks-3/#summary)
  - Convolutional Neural Networks and Images
+    - [Feature Visualization](https://distill.pub/2017/feature-visualization/) how neural networks build up their understanding of images
     - [Combine the content of one image with the style of another image](https://github.com/jcjohnson/neural-style/) and another [Photo Style Transfer](https://github.com/luanfujun/deep-photo-styletransfer) and [another example](https://github.com/jcjohnson/neural-style/
     - [CNN example with MNIST dataset](https://ml4a.github.io/ml4a/looking_inside_neural_nets/)
     - [Convolution animations](https://github.com/vdumoulin/conv_arithmetic)
+    - [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/neural-networks-2/)
+    - [What is wrong with Convolutional neural networks?](https://towardsdatascience.com/what-is-wrong-with-convolutional-neural-networks-75c2ba8fbd6f)
+    - [Convolutional Neural Networks](http://andrew.gibiansky.com/blog/machine-learning/convolutional-neural-networks/)
+    - [Understanding layers in NN](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) from google AI blog
 - Natural Language Processing
     - [Word Embeddings Projected](https://projector.tensorflow.org/)
     - [Word Embeddings](https://www.tensorflow.org/tutorials/text/word_embeddings)
@@ -61,7 +69,15 @@ Install package without installing the dependencies
     - [Word2Vec For Phrases — Learning Embeddings For More Than One Word](https://towardsdatascience.com/word2vec-for-phrases-learning-embeddings-for-more-than-one-word-727b6cf723cf)
     - [Learning Word Embeddings](https://lilianweng.github.io/lil-log/2017/10/15/learning-word-embedding.html)
     - [Word2Vec For Phrases](https://towardsdatascience.com/word2vec-for-phrases-learning-embeddings-for-more-than-one-word-727b6cf723cf)
-
+    - [Word embeddings in tensorflow](https://www.tensorflow.org/tutorials/text/word_embeddings)
+- Recommender Systems
+    - [5 Types of Recommender Systems](https://www.datasciencecentral.com/profiles/blogs/5-types-of-recommenders)
+    - [How Shopify Uses Recommender Systems to Empower Entrepreneurs](https://medium.com/data-shopify/how-shopify-uses-recommender-systems-to-empower-entrepreneurs-99553b407944)
+    - [Various Implementations of Collaborative Filtering](https://towardsdatascience.com/various-implementations-of-collaborative-filtering-100385c6dfe0)
+    - [Collaborative filtering for movie recommendations](http://ampcamp.berkeley.edu/big-data-mini-course/movie-recommendation-with-mllib.html)
+    - [Deep learning for recommender systems](https://ebaytech.berlin/deep-learning-for-recommender-systems-48c786a20e1a)
+    - [Association Rules and the Apriori Algorithm](https://www.kdnuggets.com/2016/04/association-rules-apriori-algorithm-tutorial.html)
+ 
 
 ### Topics Explained or Visualized
  - ![neural network architectures cheatsheet](https://www.asimovinstitute.org/wp-content/uploads/2019/04/NeuralNetworkZoo20042019.png)
@@ -140,24 +156,18 @@ To put in a section
  - [Differences between Hive Internal and External Tables](https://blogs.msdn.microsoft.com/cindygross/2013/02/05/hdinsight-hive-internal-and-external-tables-intro/)
  - [Predicting Breast Cancer Using Apache Spark Machine Learning Logistic Regression](https://mapr.com/blog/predicting-breast-cancer-using-apache-spark-machine-learning-logistic-regression/)
  - [How to build a simple artificial neural network](https://sausheong.github.io/posts/how-to-build-a-simple-artificial-neural-network-with-go/)
- - [Word embeddings in tensorflow](https://www.tensorflow.org/tutorials/text/word_embeddings)
  - [Implementation of a majority voting EnsembleVoteClassifier for classification](https://rasbt.github.io/mlxtend/user_guide/classifier/EnsembleVoteClassifier/)
  - [An intuitive approach to Backpropagation](https://medium.com/spidernitt/breaking-down-neural-networks-an-intuitive-approach-to-backpropagation-3b2ff958794c)
- - [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/neural-networks-2/)
  - [Priming neural networks with an appropriate initializer](https://becominghuman.ai/priming-neural-networks-with-an-appropriate-initializer-7b163990ead)
  - [How transferable are features in deep neural networks?](https://arxiv.org/pdf/1411.1792.pdf)
  - [A Gentle Introduction to Transfer Learning for Deep Learning](https://machinelearningmastery.com/transfer-learning-for-deep-learning/)
  - [Convolutions and Backpropagations](https://medium.com/@pavisj/convolutions-and-backpropagations-46026a8f5d2c)
  - [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
- - [Feature Visualization](https://distill.pub/2017/feature-visualization/) how neural networks build up their understanding of images
  - [ResNet, AlexNet, VGGNet, Inception: Understanding various architectures of Convolutional Networks](https://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/)
  - [AlphaGo Case Study](https://deepmind.com/research/case-studies/alphago-the-story-so-far)
  - [Human pose estimation](http://www.cs.cmu.edu/~vramakri/poseMachines.html)
- - [Understanding layers in NN](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) from google AI blog
- - [Convolutional Neural Networks](http://andrew.gibiansky.com/blog/machine-learning/convolutional-neural-networks/)
  - [Paper on how deep neural networks are more difficult to train](https://arxiv.org/pdf/1512.03385.pdf)
  - [An Overview of ResNet and its Variants](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
- - [What is wrong with Convolutional neural networks?](https://towardsdatascience.com/what-is-wrong-with-convolutional-neural-networks-75c2ba8fbd6f)
  - [Transfer Learning](http://cs231n.github.io/transfer-learning/) stanford notes
  - [Chris Olah Blog on ML/DL topics](http://colah.github.io/)
  - [Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
@@ -168,8 +178,6 @@ To put in a section
  - [Image Caption Generation](https://arxiv.org/pdf/1502.03044.pdf)
  - [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe's_quartet)    
  - [Visualizing how a Neural Network works](https://playground.tensorflow.org)    
- - [Eigenvectors and Eigenvalues explained](http://setosa.io/ev/eigenvectors-and-eigenvalues/)    
- - [Principal Component Analysis explained](http://setosa.io/ev/principal-component-analysis/)
  - [Bagging and Boosting](https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/)
  - [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/)
  - [Momentum for Gradient Decent](https://distill.pub/2017/momentum/)
@@ -185,16 +193,7 @@ To put in a section
  - [another with a detailed explaination](http://machinelearninguru.com/computer_vision/basics/convolution/convolution_layer.html)
  - [Hierarchical softmax](https://www.quora.com/What-is-hierarchical-softmax)
  - [Kernel Density Estimation](https://mathisonian.github.io/kde/)  
-  - Recommender Systems
-     - [5 Types of Recommender Systems](https://www.datasciencecentral.com/profiles/blogs/5-types-of-recommenders)
-     - [Association Rules and the Apriori Algorithm](https://www.kdnuggets.com/2016/04/association-rules-apriori-algorithm-tutorial.html)
-     - [Apriori vs FP-Growth for Frequent Item Set Mining](https://www.singularities.com/blog/our-blog-1/post/apriori-vs-fp-growth-for-frequent-item-set-mining-11)
-     - [How Shopify Uses Recommender Systems to Empower Entrepreneurs](https://medium.com/data-shopify/how-shopify-uses-recommender-systems-to-empower-entrepreneurs-99553b407944)
-     - [Various Implementations of Collaborative Filtering](https://towardsdatascience.com/various-implementations-of-collaborative-filtering-100385c6dfe0)
-     - [Collaborative filtering for movie recommendations](http://ampcamp.berkeley.edu/big-data-mini-course/movie-recommendation-with-mllib.html)
-     - [Deep learning for recommender systems](https://ebaytech.berlin/deep-learning-for-recommender-systems-48c786a20e1a)
- - Images and Deep Learning
-     - [OpenFace: A general-purpose face recognition library](http://cmusatyalab.github.io/openface/)
-     - Pretrained Image Classifier [here](http://demo.caffe.berkeleyvision.org/) and [here](http://places2.csail.mit.edu/demo.html)
-     - [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf)
+ - [OpenFace: A general-purpose face recognition library](http://cmusatyalab.github.io/openface/)
+ - Pretrained Image Classifier [here](http://demo.caffe.berkeleyvision.org/) and [here](http://places2.csail.mit.edu/demo.html)
+ - [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf)
 
