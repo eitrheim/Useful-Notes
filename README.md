@@ -123,6 +123,7 @@ Install package without installing the dependencies
  - Miscellaneous
     - [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe's_quartet)    
     - [Kernel Density Estimation](https://mathisonian.github.io/kde/)  
+    - [Glossary of ML Terms](https://developers.google.com/machine-learning/glossary/)
     - [Image Caption Generation with CNN + RNN](https://arxiv.org/pdf/1502.03044.pdf)
     - [Human pose estimation](http://www.cs.cmu.edu/~vramakri/poseMachines.html)
     - [Chris Olah Blog on ML/DL topics](http://colah.github.io/)
