@@ -48,6 +48,7 @@ Install package without installing the dependencies
      - [Principal Component Analysis explained](http://setosa.io/ev/principal-component-analysis/)
  - Clustering
      - [In Depth: k-Means Clustering](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)  
+     - [How to Use t-SNE](https://distill.pub/2016/misread-tsne/)
  - Validation
      - [Simple guide to confusion matrix terminology](https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
      - [Sensitivity and specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
