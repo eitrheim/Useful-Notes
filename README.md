@@ -127,6 +127,7 @@ Install package without installing the dependencies
     - [Image Caption Generation with CNN + RNN](https://arxiv.org/pdf/1502.03044.pdf)
     - [Human pose estimation](http://www.cs.cmu.edu/~vramakri/poseMachines.html)
     - [Chris Olah Blog on ML/DL topics](http://colah.github.io/)
+    - [How to apply standardization/normalization to train and test](https://stats.stackexchange.com/questions/174823/how-to-apply-standardization-normalization-to-train-and-testset-if-prediction-i)
 
 ### Topics Explained or Visualized
  - ![neural network architectures cheatsheet](https://www.asimovinstitute.org/wp-content/uploads/2019/04/NeuralNetworkZoo20042019.png)
