@@ -136,6 +136,7 @@ Install package without installing the dependencies
  - [R for Data Science textbook](https://r4ds.had.co.nz)
  - [Intro to Stats](http://onlinestatbook.com/2/index.html)
  - [MIT Deep Learning](http://www.deeplearningbook.org/)
+ - [O'Reilly book Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://www.lpsm.paris/pageperso/has/source/Hand-on-ML.pdf)
 
 ### Datasets
  - [Pre-trained models: Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo) for transfer learning
