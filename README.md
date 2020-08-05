@@ -69,6 +69,7 @@ Install package without installing the dependencies
     - [An intuitive approach to Backpropagation](https://medium.com/spidernitt/breaking-down-neural-networks-an-intuitive-approach-to-backpropagation-3b2ff958794c)
     - [Priming neural networks with an appropriate TensorFlow initializer](https://becominghuman.ai/priming-neural-networks-with-an-appropriate-initializer-7b163990ead)
  - Convolutional Neural Networks and Images
+    - Good explainers [here](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d) and [here](http://deeplearning.net/software/theano/tutorial/conv_arithmetic.html)
     - [Feature Visualization](https://distill.pub/2017/feature-visualization/) how neural networks build up their understanding of images
     - [Combine the content of one image with the style of another image](https://github.com/jcjohnson/neural-style/) and another [Photo Style Transfer](https://github.com/luanfujun/deep-photo-styletransfer) and [another example](https://github.com/jcjohnson/neural-style/
     - [CNN example with MNIST dataset](https://ml4a.github.io/ml4a/looking_inside_neural_nets/)
@@ -79,7 +80,7 @@ Install package without installing the dependencies
     - [What is wrong with Convolutional neural networks?](https://towardsdatascience.com/what-is-wrong-with-convolutional-neural-networks-75c2ba8fbd6f)
     - [Convolutional Neural Networks](http://andrew.gibiansky.com/blog/machine-learning/convolutional-neural-networks/)
     - [Understanding layers in NN](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) from google AI blog
-    - [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks
+    - [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
     - Pretrained Image Classifier [here](http://demo.caffe.berkeleyvision.org/) and [here](http://places2.csail.mit.edu/demo.html)
     - [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf)
     - [OpenFace: A general-purpose face recognition library](http://cmusatyalab.github.io/openface/)
